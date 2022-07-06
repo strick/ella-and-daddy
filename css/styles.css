@@ -1,0 +1,66 @@
+body {
+    background-color: #6BC1E2;
+}
+.container {
+    padding: 10px;
+}
+
+h1.section {
+    text-align: center;
+}
+.heading {
+    font-size: 48px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.book img {
+    width: 300px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.socialmediaicons .fa {
+     padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.socialmediaicons2 .fa {
+     padding: 8px;
+    font-size: 30px;
+    width: 50px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+/* Twitter */
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+@media screen and (max-width: 991px) {
+  #ella-title-caption {
+    width: 544px !important;
+    flex: initial;
+  }
+}
