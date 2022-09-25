@@ -28,7 +28,7 @@ h1.section {
 }
 
 .title-image {
-    width: -webkit-fill-available;
+    width: 300px;
 }
 
 #new-release-section p {
